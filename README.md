@@ -1,5 +1,5 @@
 # Tensile
-Tessile is a project for testing Microsft asynchronous socket programming. It includes three projects:
+Tessile is a project for testing Microsoft asynchronous socket programming. It includes three projects:
 ## 1. SensorAsync(server)
 This is a console application based on [Microsoft Asynchronous Server Socket](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/asynchronous-server-socket-example) example.
 ## 2. DashboardAsync(cleint)
